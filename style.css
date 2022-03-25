@@ -1,0 +1,173 @@
+html{
+    background-image:url("images/bgimage.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size:cover;
+    background-attachment: fixed;
+
+
+    
+}
+div.top{
+    font-family: "press start 2p","ubuntu mono", sans-serif;
+    color:rgb(47, 202, 27);
+    overflow:hidden;
+    
+}
+h4.top {
+    border-bottom-style: groove;
+    padding-bottom: 1.5em;
+      
+}
+
+h3.top{
+    margin-top: -10px;
+    font-family: "press start 2p","ubuntu mono", sans-serif;
+    color:rgb(52, 156, 38);
+    border-bottom-style: groove;
+    padding-bottom: 1.5em;
+}
+
+
+#about{
+    background: #807e7e;
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 32px;
+    float: left;
+}
+
+#NthSky{
+    padding-left: 15px;
+}
+#profile{
+    margin-left: 25%;
+    width: 50%;
+    background-color: blue;
+    border-style: outset;
+    border-color: aquamarine;
+    border-radius: .5em;
+    border-width: .3125em;
+    padding: 16px;
+
+    position: auto;
+    list-style-type: none;
+    font-family: "press start 2p","ubuntu mono", sans-serif;
+    color:rgb(52, 156, 38);
+    font-size: large;
+   
+
+}
+
+#contact{
+        margin-top: -10px;
+        font-family: "press start 2p","ubuntu mono", sans-serif;
+        color:rgb(52, 156, 38);
+        border-bottom-style: groove;
+        padding-bottom: 1.5em;
+}
+ul.Menu {
+    list-style-type: none;
+    float: right;
+    padding-right: auto;
+    margin-right: 20px;
+    overflow: hidden;
+
+    
+}
+
+.button {
+    text-align: center;
+    border-style: outset;
+    background-color:  blue;
+    padding: .625em;
+    padding-left: 2em;
+    padding-right:2em;
+    border-radius: 4em;
+    border-width: .3125em;
+
+}
+
+.link{
+    font-family: "press start 2p","ubuntu mono", sans-serif;
+    font-size: 16 px;
+    color:chartreuse;
+    align-content: center;
+}
+.DL{
+    font-family: "ubuntu mono";
+    list-style-type:circle;
+    text-align: left;
+    margin-left: 3em;
+    font-size: x-large;
+    color:rgb(52, 156, 38);
+}
+
+
+p.top{
+    font-family: "ubuntu mono";
+    font-size:x-large;
+    color: rgb(43, 197, 146);
+    padding-left: 2em;
+    padding-right: 17em;
+    margin-left: 3em;
+    margin-right: auto;
+
+}
+
+#p3{
+    font-family: "ubuntu mono", sans-serif;
+    color:chartreuse;
+    font-size: large;
+    background-color: blue;
+    border-style: outset;
+    border-color: aquamarine;
+    padding: .5em;
+    border-radius: .5em;
+    border-width: .3125em;
+
+}
+.icons{
+    font-size: 1.65em;
+    color: #c43b15;
+    padding: .625em;
+    border-style: solid;
+    border-radius: .5em;
+    
+}
+
+#home{
+    font-family: "press start 2p","ubuntu mono", sans-serif;
+    font-size: 16 px;
+    color:chartreuse;
+    align-content: center;
+    text-align: center;
+    border-style: outset;
+    background-color:  blue;
+    padding: .625em;
+    padding-left: 2em;
+    padding-right:2em;
+    border-radius: 4em;
+    border-width: .3125em;
+
+}
+
+body{
+
+    margin-bottom: 0%;
+    
+}
+
+footer {
+    padding-top: 8em;
+    text-align: center;
+    bottom: 0;
+    margin-bottom: auto;
+    width: 75%;
+  
+  }
+
