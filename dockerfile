@@ -1,7 +1,7 @@
 FROM nginx:latest
 
-WORKDIR 
-COPY . .
+WORKDIR /
+COPY . usr/share/nginx/html/
 EXPOSE 80
 EXPOSE 443
-ENTRYPOINT
+CMD ["nginx", "-g", "daemon off;"]
