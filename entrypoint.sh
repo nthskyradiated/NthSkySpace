@@ -2,4 +2,5 @@
 
 nginx -g daemon off &
 
-resume-cli serve --theme elegant &
+resume serve --theme elegant &
+
