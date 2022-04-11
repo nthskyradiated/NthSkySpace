@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Andy Pandaan",
+    "label": "Systems DevOps Cloud Engineer",
+    "image": "https://s.gravatar.com/avatar/65f72ed31fd3773a0ba4ab0af9cb41b3?s=100&r=pg&d=mm",
+    "summary": "Currently working for The Executive Office of his highness Sheikh Mohammed Bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai. I have fifteen years of experience in the IT industry with 2 years of relevant experience as freelance IT solution consultant for SOHO's and SMB's On-prem, cloud, or hybrid environments. My work experience includes systems, network, and cloud administration, Devops, IT management, and web development. ",
+    "website": "https://nthsky.me",
+    "email": "andy.pandaan@outlook.com",
+    "location": {
+      "city": "Dubai",
+      "countryCode": "AE"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "andy-pandaan-b7264510b",
+        "url": "https://www.linkedin.com/in/andy-pandaan-b7264510b/"
+      },
+      {
+        "url": "https://github.com/nthskyradiated",
+        "username": "nthskyradiated",
+        "network": "github"
+      },
+      {
+        "url": "https://stackoverflow.com/users/17446205/biscuithammer",
+        "username": "biscuithammer",
+        "network": "stackoverflow"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2004-12",
+      "startDate": "2000-06",
+      "area": "Computer Engineering",
+      "studyType": "Bachelors",
+      "institution": "AMA Computer University"
+    }
+  ],
+
+  "skills": [
+    {
+      "keywords": ["Terraform", "AWS", "Git", "Github", "Jenkins", "Ansible", "Docker", "Kubernetes", "Prometheus", "Grafana"],
+      "level": "Advanced",
+      "name": "Devops"
+    },
+    {
+      "keywords": ["Linux Servers", "Windows Servers", "Azure AD", "Azure", "Cisco", "Fortigate", "Bash Scripting"],
+      "level": "Senior",
+      "name": "Systems and Network"
+    },
+
+    {
+      "keywords": [
+        "HTML / CSS / Javascript",
+        "Python / Selenium",
+        "MongoDB / Express / NodeJS / React",
+        "Redis"
+      ],
+      "level": "Intermediate",
+      "name": "Web Development"
+    }
+
+  ],
+  "work": [
+    {
+      "summary": "One of HH Sheikh Mohammed's office, TEO acts as an incubator for great ideas and nurtures them until they're mature enough to operate on their own.",
+      "website": "https://sheikhmohammed.ae/",
+      "name": "The Executive Office",
+      "location": "Dubai",
+      "position": "Systems and Network Engineer",
+      "startDate": "2015-05-05",
+      "highlights": [
+          "Successfully deployed several government platforms in conjunction with the TEO team such as Smart Dubai, MBRMajlis, MBRCLD, Arab Strategy Forums, and Area2071 to name a few.", 
+          "Migrated several on-prem development to the cloud to significantly cut expenses.",
+          "Carried out successful load tests, and penetration tests to finally achieve 10,000 concurrent connections on MBRMajlis pre-launch.",
+          "Initiated the containerization of several small projects to help achieve faster deployment turn-around time.",
+          "MBRMajlis - HH Sheikh Mohammed's virtual majlis lets people connect directly to different government entities. My involvement includes deployment and testing.",
+          "MBRCLD - The Mohammed Bin Rashid Center for Leadership and Development is an exclusive platform to nurture the emirate's future leaders. My role includes deployment, sizing, and containerization on some of its services.",
+          "Area2071 - An innovation ecosystem to bring together UAE's talents to work towards the 100th year of the union. I was involved in procuring technical services. Area2071 in now being managed by a different government entity."
+        ]
+    },
+    {
+      "summary": "Worked as a System Administrator at Chronix Automotive. A well-renowned auto-outfitter in Philippines",
+      "name": "Chronix Automotive Services",
+      "location": "Philippines",
+      "position": "System Administrator",
+      "startDate": "2012-10-01",
+      "endDate": "2013-12-30",
+      "highlights": [
+        "Windows Active Directory / Exchange", "Sharepoint",
+        "Cisco stack",
+        "NagiOS",
+        "Fully Rearchitected the whole network infrastructure."
+      ]
+    },
+  
+    {
+      "highlights": [
+        "Introduced a different ticketing system for filing technical issues.",
+        "Brainstormed campaign ideas to raise maximum awareness about latency issues between Regional offices and their fleet.",
+        "Monitored network connectivity, resource utilization, and security to avoid downtimes and other problems for the whole company ecosystem.",
+        "Automated the majority of repetitive tasks that consumes a significant amount of time of users through scripts."
+        
+      ],
+      "summary": "Worked for a cruising company as Systems and Network Engineer.",
+      "website": "https://www.starcruises.com/",
+      "name": "Iplus Intelligent Networks",
+      "position": "System and Network Engineer",
+      "startDate": "2010-02-01",
+      "endDate": "2012-08-31"
+    },
+
+     {
+      "summary": "Acted as Technical Support for clients. The work also involved network monitoring, asset tracking, and software audits.",
+      "website": "https://teletechus.com/",
+      "name": "TeleTech Management",
+      "position": "Technical Support Engineer",
+      "startDate": "2009-02-25",
+      "endDate": "2008-08-09"
+    },
+
+
+    {
+      "summary": "Worked as Desktop Support Engineer responsible for first level escalation support. Mostly dealt with desktop issues as well as AS400 operational issues.",
+      "name": "Jardine Direct Company Inc.",
+      "position": "Desktop Engineer",
+      "endDate": "2007-04-30",
+      "startDate": "2005-10-17"
+    }
+  ],
+  "certificates": [
+  {
+      "name": "Microsoft Certified: Azure Fundamentals (AZ 900) ",
+      "date": "2021-02-25",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/earner/earned/badge/ea8053ec-29fb-4838-8f37-acb458a072b2"          
+  },
+  {
+      "name": "Microsoft Certified: Azure Administrator (AZ 104)",
+      "date": "2021-09-09",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/d7ab9cc2-6b0b-4985-843e-21f11895b4ee"
+
+  },
+  {
+      "name": "Cisco Certified Network Associate (CCNA Routing and Switching)",
+      "date": "2013-09-17",
+      "issuer": "Cisco"
+  },
+  {
+      "name": "VMWare Certified Associate (VCA-DCV, VCA-Cloud, VCA-WM)",
+      "date": "2013-11-01",
+      "issuer": "VMWare"
+  }
+],
+  "interests": [
+    {
+      "name": "Climbing / Outdoors"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
+}

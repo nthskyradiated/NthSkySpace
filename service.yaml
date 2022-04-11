@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: k8s-nthskyweb
+spec:
+  type: LoadBalancer
+  selector:
+    app: k8s-nthskyweb
+  ports:
+  - port: 80
+    targetPort: 80
