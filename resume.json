@@ -147,6 +147,13 @@
 
   },
   {
+    "name": "HashiCorp Certified: Terraform Associate",
+    "date": "2022-05-27",
+    "issuer": "HashiCorp",
+    "url": "https://www.credly.com/badges/27412a02-95d2-46fa-aee7-1a68bf0fe5c5"
+
+},  
+  {
       "name": "Cisco Certified Network Associate (CCNA Routing and Switching)",
       "date": "2013-09-17",
       "issuer": "Cisco"
